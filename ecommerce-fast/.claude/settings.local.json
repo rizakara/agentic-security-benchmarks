@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install express pg knex bcrypt jsonwebtoken multer stripe helmet cors compression express-rate-limit dotenv uuid)"
+    ]
+  }
+}
